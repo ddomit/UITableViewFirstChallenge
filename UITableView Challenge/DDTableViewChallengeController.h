@@ -1,5 +1,5 @@
 //
-//  DDViewController.h
+//  DDTableViewChallengeController.h
 //  UITableView Challenge
 //
 //  Created by Daniel Domit on 5/9/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface DDViewController : UIViewController
+@interface DDTableViewChallengeController : UITableViewController
 
 @end
